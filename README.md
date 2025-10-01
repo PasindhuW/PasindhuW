@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/VR%2FAR%2FMR%2FXR-Development-FF00FF?style=for-the-badge&labelColor=0A0F1E&color=FF00FF" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,csharp,cpp,python,openxr,arcore,arkit,git,github" width="800px" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,cpp,python,visualstudio,rider,godot,firebase,git,github" width="800px" />
 </p>
 
 <!-- Section 2: Mechanical / Mechatronics Engineering -->
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/Mechanical%20%2F%20Mechatronics-Engineering-00F0FF?style=for-the-badge&labelColor=0A0F1E&color=00F0FF" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidworks,autocad,fusion360,matlab,simulink,arduino,raspberrypi,cpp,c,python" width="800px" />
+  <img src="https://skillicons.dev/icons?i=sketchup,autocad,matlab,arduino,raspberrypi,cpp,c,python,opencv,pytorch,ros" width="800px" />
 </p>
 
 <!-- Section 3: IoT & Automation -->
@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/IoT%20%26%20Automation-Tools-7CFC00?style=for-the-badge&labelColor=0A0F1E&color=7CFC00" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32,python,c,cpp,nodejs,firebase,mysql,git" width="800px" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,cpp,nodejs,firebase,mysql,git" width="800px" />
 </p>
 
 <!-- Section 4: Web & Mobile Development -->
@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/Web%20%26%20Mobile-Development-00BFFF?style=for-the-badge&labelColor=0A0F1E&color=00BFFF" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mongodb,postgres,flutter,git,docker,linux,vscode,electron" width="800px" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mongodb,postgres,flutter,git,docker,linux,vscode,electron,androidstudio" width="800px" />
 </p>
 
 <!-- Section 5: Digital Content Creation -->
@@ -113,7 +113,7 @@
   <img src="https://img.shields.io/badge/Digital%20Content-Creation-F39C12?style=for-the-badge&labelColor=0A0F1E&color=F39C12" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,aftereffects,md,githubpages" width="800px" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,aftereffects,notion,xd,au" width="800px" />
 </p>
 
 <!-- Neon gradient bottom edge -->
@@ -401,25 +401,24 @@
 
 <!-- Social icons row (replace # with your real links) -->
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Github.png" width="38" alt="GitHub" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/LinkedIN.png" width="38" alt="LinkedIn" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Facebook.png" width="38" alt="Facebook" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Dribbble.png" width="38" alt="Dribbble" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Hackerrank.png" width="38" alt="Hackerrank" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Youtube.png" width="38" alt="YouTube" /></a>
-<a href="mailto:#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Gmail.png" width="38" alt="Email" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Discord.png" width="38" alt="Discord" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Medium.png" width="38" alt="Medium" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Behance.png" width="38" alt="Behance" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Instagram.png" width="38" alt="Instagram" /></a>
+<a href="https://github.com/PasindhuW" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Github.png" width="38" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/pasindhuweerathunga" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/LinkedIN.png" width="38" alt="LinkedIn" /></a>
+<a href="https://facebook.com/pasindhu.weerathunga" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Facebook.png" width="38" alt="Facebook" /></a>
+<a href="https://dribbble.com/PasindhuW" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Dribbble.png" width="38" alt="Dribbble" /></a>
+<a href="https://www.hackerrank.com/profile/PasindhuW" target="_blank"><img src="https://camo.githubusercontent.com/76399ff73b5ca3320e23a55f1bb18d032f49ec027a3e3cb21040807d7303bff0/68747470733a2f2f616c7465726e61746976652e6d652f6d656469612f3235362f6861636b657272616e6b2d69636f6e2d337275776762327178786831677867362d632e706e67" width="38" alt="Hackerrank" /></a>
+<a href="https://youtube.com/@PasindhuW" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Youtube.png" width="38" alt="YouTube" /></a>
+<a href="mailto:pasindhuweerathunga@gmail.com" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Gmail.png" width="38" alt="Email" /></a>
+<a href="https://discord.com/users/734752987221721093" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Discord.png" width="38" alt="Discord" /></a>
+<a href="https://medium.com/@pasindhuweerathunga" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Medium.png" width="38" alt="Medium" /></a>
+<a href="https://www.behance.net/pasindhuweerathunga" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Behance.png" width="38" alt="Behance" /></a>
+<a href="https://instagram.com/pasindhuw" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Instagram.png" width="38" alt="Instagram" /></a>
 <a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Twitter.png" width="38" alt="Twitter" /></a>
 <a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Snapchat.png" width="38" alt="Snapchat" /></a>
 <a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Pinterest.png" width="38" alt="Pinterest" /></a>
 <a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/WhatsApp.png" width="38" alt="WhatsApp" /></a>
 <a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Wordpress.png" width="38" alt="WordPress" /></a>
 <a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Blogger.png" width="38" alt="Blogger" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Xing.png" width="38" alt="XING" /></a>
-<a href="#" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Google.png" width="38" alt="Website" /></a>
+<a href="https://pasindhuweerathunga.com/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/raw/master/PNG/Color/Google.png" width="38" alt="Website" /></a>
 </p>
 
 <!-- See all available icons here: https://github.com/gauravghongde/social-icons/tree/master/PNG/Color -->
